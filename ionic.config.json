@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoFacheritoXD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
